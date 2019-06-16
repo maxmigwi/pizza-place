@@ -1,5 +1,5 @@
 body {
-background-color: blanchedalmond;
+background-color:bl;
 }
  h1{
     font: size 300%;
@@ -10,6 +10,9 @@ background-color: blanchedalmond;
 .column {
     float: left;
     width: 33.33%;
+  }
+  div .h1{
+    font-size: 50%
   }
   
   /* Clear floats after the columns
@@ -49,6 +52,9 @@ table#t01 th {
   color: white;
   background-color: black;
 } */
+table {
+  text-align: center;
+}
 
 
     
