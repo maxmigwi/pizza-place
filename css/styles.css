@@ -13,6 +13,14 @@ background-color:bl;
   }
   div .h1{
     font-size: 50%
+
+  }
+  div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
   }
   
   /* Clear floats after the columns
