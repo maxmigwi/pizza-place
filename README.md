@@ -8,14 +8,12 @@
 *  crick this link maxmigwi.github.io/pizza-place
 
 ### installation guide
-* git clone https://github.com/lamechy/mobile-pizza.git
- 
 * cd mobile-pizza 
 *  vs 
 *  atom
 
 ###Technologies used
-*html  
+*  html  
 *  css
 *  bootstrap
 *  javascript
