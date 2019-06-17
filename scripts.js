@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
-
+}
 
   $('.btn.order').click(function() {
     var sizeOfPizza = $(".size option:selected").val();
@@ -9,8 +9,10 @@ $(document).ready(function() {
     var total = parseInt(sizeOfPizza) + parseInt(toppingsOfPizza) + parseInt(crustOfPizza);
     var order = 1;
     var grandTotal = 0;
+  }
 
-    $("table").show();
+  
+    $("table").show();{
     $(".additional-buttons").show();
     $(".btn.order").hide();
 
@@ -19,9 +21,9 @@ $(document).ready(function() {
     $("#crust").html($(".crust option:selected").text() + " - " + crustOfPizza);
     $("#total").html(total);
 
-   
-{
-      this.toppings = toppings;
+    } 
+
+      this.toppings = toppings;{
       this.crust = crust;
       this.total = total;
       this.orderNo = orderNo;
@@ -29,7 +31,7 @@ $(document).ready(function() {
 
 
 
-    });
+
 
     
 
