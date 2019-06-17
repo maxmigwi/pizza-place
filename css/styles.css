@@ -15,6 +15,11 @@ background-color:blanchedalmond;
     font-size: 50%
 
   }
+
+  .container-fluid {
+    margin: 0 auto;
+    width: 960px;
+  }  
   div.fixed {
     position: fixed;
     bottom: 0;
