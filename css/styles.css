@@ -1,11 +1,11 @@
 body {
-background-color:bl;
+background-color:blanchedalmond;
 }
  h1{
     font: size 300%;
     font-weight: bold;
     font-family: 'San' serif ;
-    color: red;
+    color:crimson;
 }
 .column {
     float: left;
@@ -23,47 +23,9 @@ background-color:bl;
     border: 3px solid #73AD21;
   }
   
-  /* Clear floats after the columns
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
+  img {
+    float: right;
   }
-  .column {
-    float: left;
-  }
-  
-  .left, .right {
-    width: 25%;
-  }
-  
-  .middle {
-    width: 50%;
-  } */
-  
-/* #img {
-  padding: bottom 5%;
-  margin-bottom: 50%;
-  text-align: center;
-  font-family:sans-serif;
-  
- 
-}
-
-table#t01 tr:nth-child(even) {
-  background-color: #eee;
-}
-table#t01 tr:nth-child(odd) {
-  background-color: #fff;
-}
-table#t01 th {
-  color: white;
-  background-color: black;
-} */
-table {
-  text-align: center;
-}
-
 
     
 
