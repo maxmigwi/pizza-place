@@ -5,7 +5,7 @@
 
 ### setup/ installizzation
 *  you only need a electronic with access to the internet
-*  crick this link maxmigwi.github.io/pizza-place
+*  click this link https: maxmigwi.github.io/pizza-place
 
 ### installation guide
 * cd mobile-pizza 
