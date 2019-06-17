@@ -22,8 +22,8 @@ $(document).ready(function() {
     $("#crust").html($(".crust option:selected").text() + " - " + crustOfPizza);
     $("#total").html(total);
 
-    function Pizza(size, toppings, crust, total, orderNo) {
-      this.size = size;
+   
+
       this.toppings = toppings;
       this.crust = crust;
       this.total = total;
