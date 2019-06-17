@@ -1,6 +1,3 @@
-console.log('redbull');
-console.log('bruh');
-console.log(69);
 
 $(document).ready(function() {
 
@@ -23,7 +20,7 @@ $(document).ready(function() {
     $("#total").html(total);
 
    
-
+{
       this.toppings = toppings;
       this.crust = crust;
       this.total = total;
