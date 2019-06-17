@@ -15,4 +15,11 @@
 *  atom
 
 ###Technologies used
-*  
+*html  
+*  css
+*  bootstrap
+*  javascript
+
+
+### licence 
+*  mit
