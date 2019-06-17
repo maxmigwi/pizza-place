@@ -12,6 +12,21 @@ Pizza.prototype.price = function() {
   price += this.size.length;
   return price;
 }
+totalCost = 0;
+
+// user interface logic
+$(document).ready(function() {
+  $("form# amaizing-pizza").submit(function(event) {
+    event.preventDefault();
+    var size = "";
+    $("input:button[name=size]:checked").each(function(){
+      size = $(this).val();
+    });
+    var toppings = [];
+    $("input:checkbox[name=topping]:checked").each(function(){
+      var aTopping = $(this).val();
+      toppings.push(aTopping);
+    });
 
 
 
